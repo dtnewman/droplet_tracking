@@ -3,15 +3,11 @@
 <div style="margin: 0 auto; text-align: center; overflow: hidden;">
   <div style="float: left;">
     <img src="https://github.com/dtnewman/droplet_tracking/blob/master/Progress_first_150_frames.jpeg?raw=true" alt="progress" height="350" width="600">
-    <br><i>The yellow lines in the figure above were created by track_droplets.py which tracks the movements of the larger droplets as the move around</i>
+    <br><i>The yellow lines in the figure above were created by track_droplets.py which tracks the movements of the larger droplets as the move around. In the figure above you can see the program's progress after 150 frames.</i>
   </div>
 </div>
-<figure>
-
-<figcaption></figcaption>
-</figure>
 ====
-This project involved two major elements: Detecting water droplets in images and tracking those droplets from one frame to the next. The code for water droplet detection was written by my partner for this project in Matlab and is not available here. I wrote the code for tracking droplets between frames in Python (2.7). 
+This project involved two major elements: Detecting water droplets in images and tracking those droplets from one frame to the next. The code for water droplet detection was written by my partner for this project in Matlab and is not available here. I wrote the code for tracking droplets between frames in Python (2.7). While this code was written specifically for tracking the movements of circles for a specific research purpose, the principles can be generalized to other instances where multiple objects need to be tracked in a video or series of images.
 
 I encourage you to read over the report (see report_and_project_description.pdf) to find out more about this project. Please note that to run the movement tracking program, you will need to download and extract a file of images from Dropbox as described below.
 
