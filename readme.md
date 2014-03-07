@@ -15,11 +15,11 @@ Below are brief descriptions of all the program files that I created as well as 
 
 
 <b>Hungarian.py</b> 
-<br><i>Description:</i> Contains the function "hungarian()" which is our implementation of the Hungarian algorithm.
+<br><i>Description:</i> Contains the function "hungarian()" which is my implementation of the Hungarian algorithm.
 <br><i>Dependencies:</i> Numpy
 
 <b>Simplex.py</b> 
-<br><i>Description:</i> Contains the function "simplex()" which is our implementation of the simplex method.
+<br><i>Description:</i> Contains the function "simplex()" which is my implementation of the simplex method.
 <br><i>Dependencies:</i> Numpy
 
 <b>ILP.py</b> 
@@ -52,7 +52,7 @@ benchmarking purposes, the function "run_ILP()" does not actually return assignm
 <br><i>Dependencies:</i> Numpy, matplotlib
 
 <b>track_droplets.py</b> 
-<br><i>Description:</i> This is the program that actually implements the optimization method (as described in the paper, it utilizes our implementation of the simplex method) to track droplets from frame to frame.
+<br><i>Description:</i> This is the program that actually implements the optimization method (as described in the paper, it utilizes my implementation of the simplex method) to track droplets from frame to frame.
 <br><i>Dependencies</i>: Scipy, Numpy, matplotlib
 <br><i>Notes:</i> The files Simplex.py and frames700to3298.mat must be in the same directory when running this. Additionally, the folder containing this file must have a subfolder named 'images' containing the image files that this script depends on.
 
