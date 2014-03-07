@@ -1,0 +1,1 @@
+This folder is intentionally empty. You will need to download the pictures from dropbox in order for the movement tracking program to work. See readme.txt for more information.
