@@ -1,10 +1,16 @@
 <h3>Water Droplet Tracker</h3> 
 
+<div style="margin: 0 auto; text-align: center; overflow: hidden;">
+  <div style="float: left;">
+    <img src="https://github.com/dtnewman/droplet_tracking/blob/master/Progress_first_150_frames.jpeg?raw=true" alt="progress" height="350" width="400">
+    The yellow lines in the figure above were created by track_droplets.py which tracks the movements of the larger droplets as the move around
+  </div>
+</div>
 <figure>
-<img src="https://github.com/dtnewman/droplet_tracking/blob/master/Progress_first_150_frames.jpeg?raw=true" alt="progress" height="350" width="400">
-<figcaption>The yellow lines in the figure above were created by track_droplets.py which tracks the movements of the larger droplets as the move around</figcaption>
-</figure>
 
+<figcaption></figcaption>
+</figure>
+====
 This project involved two major elements: Detecting water droplets in images and tracking those droplets from one frame to the next. The code for water droplet detection was written by my partner for this project in Matlab and is not available here. I wrote the code for tracking droplets between frames in Python (2.7). 
 
 I encourage you to read over the report (see report_and_project_description.pdf) to find out more about this project.
