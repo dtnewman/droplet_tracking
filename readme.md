@@ -1,7 +1,7 @@
 <h3>Water Droplet Tracker</h3> 
 
 <figure>
-<img src="https://github.com/dtnewman/droplet_tracking/blob/master/Progress_first_150_frames.jpeg?raw=true" alt="progress" height="200" width="250">
+<img src="https://github.com/dtnewman/droplet_tracking/blob/master/Progress_first_150_frames.jpeg?raw=true" alt="progress" height="350" width="400">
 <figcaption>The yellow lines in the figure above were created by track_droplets.py which tracks the movements of the larger droplets as the move around</figcaption>
 </figure>
 
